@@ -1,0 +1,1 @@
+So far in this course, I have learned the fundamentals of Git and GitHub, including creating repositories, making commits, branching, and collaborating through pull requests. These version control skills are essential for managing my front-end development projects and ensuring clean, maintainable code.
