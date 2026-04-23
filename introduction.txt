@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hi, I'm Rashid! I am a Front-End Developer based in Egypt with a background in computer engineering. I am passionate about creating clean, maintainable code and currently expanding my skills in UI/UX design and mobile development. 
+
+I enjoy combining technical problem-solving with user-centered design to build robust and accessible digital experiences.
